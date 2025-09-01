@@ -68,9 +68,6 @@ pytest
 - Top 5 de ubicaciones con mayor número de incidencias.
 - Propuestas automáticas de optimización basadas en los patrones encontrados.
 
-## 📸 Capturas de ejemplo
-![Ejecución en consola](outputs/grafico_incidencias.png)
-
 ## 👨‍💻 Tecnologías utilizadas
 - Python 3.12
 - Pandas
